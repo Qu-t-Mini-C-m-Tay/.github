@@ -2,7 +2,7 @@
 ## 📦 Giới thiệu nhanh
 
 **GOOJODOQ Mini Fan** là một chiếc quạt mini sạc USB, thiết kế nhỏ gọn, dễ mang theo, phù hợp để làm mát cá nhân khi làm việc, học tập, hoặc đi cà phê. Mình viết bài này như một chia sẻ nhẹ nhàng, đồng thời gợi mở vài ý tưởng nếu anh em muốn tích hợp nó vào các dự án công nghệ như Arduino, Raspberry Pi,...
-## Mua Ngay: [https://s.shopee.vn/4q2M4cjLqS](https://s.shopee.vn/4q2M4cjLqS)](https://s.shopee.vn/4q2M4cjLqS) 
+## Mua Ngay: [https://s.shopee.vn/4q2M4cjLqS](https://s.shopee.vn/4q2M4cjLqS) 
 ## 🔧 Thông số chính
 
 | Tính năng       | Chi tiết                        |
